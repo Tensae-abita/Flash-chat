@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724608973973",
+    "project_id": "flash-chat-38633",
+    "storage_bucket": "flash-chat-38633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724608973973:android:0158cc9c8c4b271816af9c",
+        "android_client_info": {
+          "package_name": "com.tensuabita.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724608973973-s73sgab6aqqkqhvp4r2pp2qbsqvrk9dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRfk8K7k9TPQSPV1X-KxPEIjzQ4d3flBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724608973973-s73sgab6aqqkqhvp4r2pp2qbsqvrk9dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
